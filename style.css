@@ -7,11 +7,23 @@ p{
     font-size: 30px;
 }
 img{
-    width: 200px;
-    length:200px;
+    width: 900px;
+    length:500px;
 }
+a:hover{
+    text-decoration: none;
+    color:aqua;
 
-
+}
+a:visited{
+    color: blueviolet;
+}
+a:link{
+    color:darkgoldenrod;
+}
+html{
+    scroll-behavior: smooth;
+}
 
 
 
