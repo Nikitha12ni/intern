@@ -24,7 +24,20 @@ a:link{
 html{
     scroll-behavior: smooth;
 }
-
+.table{
+    margin:0 auto;
+    width: 300px;
+    align-content: center;
+    margin-left: auto;
+    margin-block-end: auto;
+    
+}
+table,th,td{
+    border: 3px solid black;
+    box-align: center;
+    border-collapse: collapse;
+    
+}
 
 
 
